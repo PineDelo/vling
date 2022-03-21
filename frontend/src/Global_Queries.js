@@ -28,6 +28,7 @@ export const GET_LIST_PAGINATION = gql`
       videoId
       thumbnails
       title
+      durationSeconds
     }
   }
 `;

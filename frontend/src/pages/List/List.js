@@ -37,6 +37,7 @@ function List() {
   if (loading) return <p>Loading....</p>;
   if (error) return <p>Error To Render....</p>;
 
+  console.log(datas?.videoPagination);
   return (
     <section className={styles.listBody}>
       <section className={styles.listArea}>
