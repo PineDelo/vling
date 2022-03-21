@@ -22,6 +22,7 @@
   - react-router-dom
   - @apollo/client
   - react-youtube
+  - redux
 
 ### 2.2. Back
 
