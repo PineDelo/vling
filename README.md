@@ -34,6 +34,7 @@ REACT_APP_LOCAL_SERVER=""
 - redux를 사용하여 상태관리 및 props 전달 방법
 - GraphQL의 Apollo Client를 통한 data fetching 및 작동원리
 - YouTube Library의 다양성 및 오픈 api 경험
+- react hook - useRef의 이해  observe 기능을 통한 무한스크롤 구현 방법
 ### 4.2. 아쉬운 점
 - plugin module화에 대한 지식 부족
 - react bundling의 이해 및 webpack 지식 
