@@ -2,19 +2,15 @@
 
 ## 1. 기술 스택
 
-### 1.1. Front
-
-- graphql apollo
+- graphql apollo client
 - redux
 - react
-
-### 1.2. Back
 
 ## 2. 초기세팅
 
 ### 2.1. Front
 
-- npm install list
+#### 2.1.1 npm install list
 
   - prettier
   - eslint-config-prettier
@@ -24,22 +20,14 @@
   - react-youtube
   - redux
 
-### 2.2. Back
+### 2.2. .env 세팅
 
-- npm install list
-
-### 2.3. .env 세팅
-
-REACT_APP_EC2_SERVER=""
+REACT_APP_EC2_SERVER="" <br/>
 REACT_APP_LOCAL_SERVER=""
 
-### 2.4. 공통 convention
+### 2.3. 공통 convention
 
-#### 2.4.1 git
-
-#### 2.4.2. branch
+#### 2.4.1. branch
 
 - front: fe/{}/
 - back: be/{}/
-
-#### 2.4.3. commit message
